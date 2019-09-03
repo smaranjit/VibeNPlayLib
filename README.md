@@ -1,2 +1,2 @@
 # VibeNPlayLib
-controlls vibration and Plays ringtone or alerm
+controls vibration and Plays ringtone or alarm
