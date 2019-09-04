@@ -1,21 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release'
-
-//Step II: Add the below publish details
-publish {
-
-    def groupProjectID = 'io.github.smaranjit'
-    def artifactProjectID = 'vibenplaylib'
-    def publishVersionID = '0.1.2'
-
-    userOrg = 'smaranjit'
-    repoName = 'VibeNPlayLib'
-    groupId = groupProjectID
-    artifactId = artifactProjectID
-    publishVersion = publishVersionID
-    desc = 'plays vibration and sound'
-    website = 'https://github.com/smaranjit/VibeNPlayLib'
-}
 
 android {
     compileSdkVersion 29
