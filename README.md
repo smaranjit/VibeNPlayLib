@@ -37,5 +37,5 @@ VibeNPlay.setSoundType(VibeNPlay.SOUND_RINGTONE);
 VibeNPlay.setSoundPattern(true); //true for play in loop, false for play one time
 ```
  ```java
- VibeNPlay.reset(); // to reset all settings to their default value
+ VibeNPlay.reset(); // to reset all settings to their default value 
  ```
