@@ -1,6 +1,9 @@
 # VibeNPlayLib
 controls vibration and Plays ringtone or alarm or notification tone
 
+## Add to project
+`implementation 'io.github.smaranjit:vibenplaylib:0.1.2'`
+
 ## Initialization
 `VibeNPlay.with(context).sound(true).vibration(true).initialize();`
 
